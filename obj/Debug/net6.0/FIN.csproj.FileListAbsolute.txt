@@ -1,0 +1,15 @@
+C:\FinJob\FIN\bin\Debug\net6.0\FIN.exe
+C:\FinJob\FIN\bin\Debug\net6.0\FIN.deps.json
+C:\FinJob\FIN\bin\Debug\net6.0\FIN.runtimeconfig.json
+C:\FinJob\FIN\bin\Debug\net6.0\FIN.dll
+C:\FinJob\FIN\bin\Debug\net6.0\FIN.pdb
+C:\FinJob\FIN\obj\Debug\net6.0\FIN.csproj.AssemblyReference.cache
+C:\FinJob\FIN\obj\Debug\net6.0\FIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinJob\FIN\obj\Debug\net6.0\FIN.AssemblyInfoInputs.cache
+C:\FinJob\FIN\obj\Debug\net6.0\FIN.AssemblyInfo.cs
+C:\FinJob\FIN\obj\Debug\net6.0\FIN.csproj.CoreCompileInputs.cache
+C:\FinJob\FIN\obj\Debug\net6.0\FIN.dll
+C:\FinJob\FIN\obj\Debug\net6.0\refint\FIN.dll
+C:\FinJob\FIN\obj\Debug\net6.0\FIN.pdb
+C:\FinJob\FIN\obj\Debug\net6.0\FIN.genruntimeconfig.cache
+C:\FinJob\FIN\obj\Debug\net6.0\ref\FIN.dll
